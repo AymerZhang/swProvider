@@ -24,9 +24,9 @@ class SwProviderPlugin implements Plugin<Project> {
     private static final int DP_MAX = 720//所有dimens文件dp从0生成到这个值
     private static final int SP_MAX = 48//SP最大
 
-//    private static final int[] dps = [360, 384, 392, 400, 410, 411, 480, 533, 592,
-//                                      600, 640, 662, 720, 768, 800, 811, 820, 900, 960, 961, 1024, 1280]//常见dp列表
-    private static final int[] dps = [100,481,510,720,900]//常见dp列表
+    private static final int[] dps = [360, 384, 392, 400, 410, 411, 480, 533, 592,
+                                      600, 640, 662, 720, 768, 800, 811, 820, 900, 960, 961, 1024, 1280]//常见dp列表
+//    private static final int[] dps = [100,481,510,720,900]//常见dp列表
 
 //    private static final int[] dps = [360, 410]
 
