@@ -1,2 +1,2 @@
 # swProvider
-自定义plugin自动创建sw资源文件
+custom plugin auto create values-sw/dimens
